@@ -26,6 +26,9 @@ Google Drive folder for the files in the repositories is [here](https://drive.go
 ## Challenges
 The instructions in the problem statement were easy to follow after a solid base of introductory Python. Issues were observed after uploading the 01 and 02 files in the GitHub repository, which remains unfixed. The files cannot be viewed in the preview and thus can be accessed only through downloads or the Google Drive link provided above. The same issue did not pop up in the 03 file, as the file can be previewed in GitHub without error. 
 
+## Improvements to be Made
+The leap game can be improved by adding code that recognises when players are stuck with no valid moves left and prints a message informing the same. 
+
 ## Conclusion
 
 In conclusion, the project successfully addressed the challenge of creating the 'Frog Leap' game using fundamental Python concepts in a Jupyter notebook. The game adheres to specified rules, incorporating concepts of lists, control flow, and loops. Emojis enhance the game's visual appeal, replacing traditional text representation in the problem statement. Despite these achievements, challenges arose during the GitHub repository upload, particularly with files 01 and 02, preventing preview and necessitating access through downloads or the provided Google Drive link. The resolution of this issue remains pending. Overall, the project demonstrates a practical application of Python programming skills while showcasing creativity in game design.
